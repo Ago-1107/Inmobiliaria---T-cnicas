@@ -1,9 +1,0 @@
-servlet\SignupServlet.class
-servlet\PropertyDetailsServlet.class
-servlet\BuyPropertyServlet.class
-model\ConnectDatabase.class
-DAO\PropertyManagement.class
-DAO\UserManagement.class
-model\Property.class
-model\User.class
-servlet\LoginServlet.class
