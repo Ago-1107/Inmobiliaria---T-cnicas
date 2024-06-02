@@ -1,36 +1,23 @@
-# Bancoin
+# Yupi Homes.
 
-## Diseño Conceptual
+## Diseño Conceptual y Supuestos.
+### Todo lo aquí escrito puede ser tomado como supuesto.
 
-Bancoin es un banco digital que proporciona una plataforma para que los usuarios realicen transacciones financieras de manera segura y eficiente. Ofrece la posibilidad de iniciar sesión para usuarios existentes o de registrarse para nuevos usuarios.
+La inmobiliaria Yupi Homes da la posibilidad a los usuarios de que compren y/o vendan las casas más exclusivas del momento, admite a usuarios antiguos por medio de un formulario de inicio de sesión a la vez que da la oportunidad a nuevos clientes de registrarse.
 
-## Funcionalidades
+## Funcionalidades.
 
-### Autenticación
-- **Inicio de sesión:** Acceso seguro para usuarios registrados.
+### Autenticación.
 - **Registro:** Creación de una nueva cuenta para nuevos usuarios.
+  - No se puede registrar 2 veces ni la misma identificación ni el mismo correo
+- **Inicio de sesión:** Acceso seguro para usuarios registrados.
+  - En caso de ingresar mal un dato no se inica la sesión
 
-### Transacciones
-- **Depósitos y Retiros:** Operaciones en dólares (USD), euros (EUR) o pesos colombianos (COP).
-  - **Tasas de cambio:**
-    - 1 USD = 4000 COP
-    - 1 EUR = 4500 COP
-  - **Monto mínimo:** 200 COP por transacción.
-  - **Costo de transacción:**
-    - Transacciones menores a 50,000 COP: costo de 100 COP.
-    - Transacciones de 50,000 COP o más: se cobra el 1% del monto total.
+### Verificación de Compras y Ventas.
+- **Compras:** No permite, ni a una misma persona ni a varias, comprar una casa que ya tiene dueño.
+  - El botón comprar deja de mostrase una vez que alguien compra.
+- **Ventas:** Sólo se le da la opción de vender una casa a quien la compro.
+- Cada que se hace una operación la cantidad de viviendas es modificada, por lo que siempre podrá ver su cantidad de propiedades actuales.
 
-### Historial
-- Visualización de las **últimas 10 transacciones** realizadas.
-
-### Políticas de Privacidad
-- Información estática predefinida sobre la privacidad de los datos del usuario.
-
-## Supuestos
-- Todos los datos, excepto los botones y la información estática, se obtienen de la base de datos (BD).
-
-## Notas Adicionales
-- Las políticas de privacidad son datos quemados (hardcoded).
-- Las transacciones y operaciones se registran y almacenan en la BD para su posterior visualización en el historial.
-
-**todo lo explicitado en el texto puede ser tomado como supuesto**
+## Actualización de Datos.
+- A excepción de la información estatica de la compañía, texto de botones y titulos, los cuales son texto quemado; todos los datos son guardados y llamados desde la base de datos MariaDB, por lo que la actualidad de los datos es segura.
