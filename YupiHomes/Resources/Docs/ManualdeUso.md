@@ -6,7 +6,7 @@ En el siguiente manual encontrará todas las caracteristicas, funciones y opcion
 
 Lo primero con lo que te encontrarás será con una pantalla de registro o de log in dependiendo de cuál sea tu caso.
 
-![alt text](https://raw.githubusercontent.com/Ago-1107/Inmobiliaria-Tecnicas/YupiHomes/Resources/Images/01.png)
+![alt text](https://raw.githubusercontent.com/Ago-1107/Inmobiliaria-Tecnicas/YupiHomes/Resources/Images/Desktop - 1.png)
 
 Aquí tienes dos opciones, la primera será crear una cuenta, donde ingresarás los datos que te piden y le darás al botón de crear cuenta, te saldrá un mensaje de confirmación que se verá de la siguiente manera.
 
