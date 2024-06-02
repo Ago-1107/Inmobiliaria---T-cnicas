@@ -1,91 +1,61 @@
-# Manual de Uso para la Appweb Yupi Homes
+# Manual de Uso para la App-Web Yupi Homes.
 
-En el siguiente manual encontrará todas las caracteristicas, funciones y opciones que tiene nuestra inmobiliaria. 
+En el siguiente manual encontrará todas las caracteristicas, funciones y opciones que se manejan en inmobiliaria Yupi Homes.
 
-## 1. Presentación
+## 1. Presentación.
 
-Lo primero con lo que te encontrarás será con una pantalla de registro o de log in dependiendo de cuál sea tu caso.
+El primer encuentro con la pagina permite ver el nombre, la categoria y el eslogan de la compañia.
 
-![alt text](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%201.png)
+![Inicio](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%201.png)
 
-Aquí tienes dos opciones, la primera será crear una cuenta, donde ingresarás los datos que te piden y le darás al botón de crear cuenta, te saldrá un mensaje de confirmación que se verá de la siguiente manera.
+En la parte superior derecha se encuentra la barra de navegación, la cual le permitirá desplazarse más rapidamente por nuestra web, cabe aclarar que esta junto a la marca siempre estarán visibles.
+El primer título superior (Abot Us) y el botón verde inferior (Find Out More) llevan a la misma sección, la cual se mostrará a continuación:
 
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_1.png)
+![Sobre Nosotros](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%202.png)
 
-Con esto ya sabrás que tu registro fue completado correctamente y podrás iniciar sesión.
+Aquí podrá leer sobre la historia y la misión de la corporación.
 
-Cuando inicias sesión existe la posibilidad de que te equivoques, si pasa esto, te mostrará lo siguiente.
+Al bajar más o apretar el segundo título superior se encontrará con los servicios que se ofrecen y ofreceran:
 
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_2.png)
+![Servicios](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%203.png)
 
+¡Rentar viviendas con Yupi Homes es un hecho cercano! Es por eso que desde esta sección es invitado a unirse (Join Us!), lo que le permitirá ir directamente al registro.
+Por otro lado, si se continua desplazando manualmente o presiona el tercer título superior (Housing) se encontrará con una previa de las propiedades, sus nombres y categorias; pero al hacer click para intentar acceder a ellas se le solicitará que inicie sesión, por lo que sería redirigido automaticamente a los formularios de registro e inicio de sesión.
 
-Mostrando así que con los datos ingresados no existe ninguna cuenta registrada, en caso de no equivocarse, entrarás a tu cuenta y a la página del banco principal.
+![Previa de Propiedades](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%204.png)
+![Nombre Propiedades](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%205.png)
 
-(El formulario de Reactivar cuenta es solo un engaño visual, no tiene funcionalidad)
+## 2. Registro e Inicio de Sesión.
 
-## 2. Página Principal
+En este punto, al cual tambien se puede llegar con el último título superior (Log In), ubicará un mensaje de ubicación y 2 botones (Sign Up y Log In) entre los cuales podrá escoger si necesita registrarse o si quiere iniciar en una sesión ya existente.
 
-En la página principal, luego de que hayas iniciado sesión en tu cuenta verás la siguiente pantalla.
+![Formularios](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%206.png)
+![Registro](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%207.png)
+![Inicio de Sesión](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%208.png)
 
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_3.png)
+Por último, al completar y enviar exitosamente cualquiera de los 2 formularios será redirigido a la pagina principal (Housing).
 
+## 3. Pagina Principal.
 
-Ya estarás en tu cuenta y podrás mover tu dinero, pero antes de vamos a conocer un poco más la plataforma.
+Se dará cuenta que la barra de navegación ha cambiado, es bastante más corta, pero sigue estando presente.
 
-Los botones: Información Personal, Pagar Facturas, Donaciones, Sobre Nosotros y Redes Sociales son botones sin funcionalidad que solo nos ayudan a nivel visual a tener más orden y escalabilidad en nuestra appweb.
+![Principal](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%209.png)
 
-Ya en esta pantalla tú podrás hacer diferentes cosas, lo primero es consultar saldo, el cual podrás hacerlo dando clic en el botón “Consultar saldo”, y se te mostrará tu saldo de la siguiente manera.
+Aunque al inicio se ve muy similar a la previa, aquí podrá ver a detalle las especificaciones de las viviendas al dar click en sobre ellas, como verá a continuación:
 
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_4.png)
+![Detalles 1](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%2010.png)
+![Detalles 2](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%2011.png)
 
+Podrá ver el nombre de la propiedad, su localidad, el nombre de baños y habitaciones que tiene, el estado en el que se encuentra (Comprada o a la Venta), su precio, un carrusel de fotos de la residencia y si tiene o no dueño. En caso de no tener propietario aparecera disponible para comprar (Buy), como se muestra en la imagen de arriba, si usted decide comprarla tendrá la opción de volverla a vender (sell), como se le mostrará a continuación; por otro lado, si no está disponible y no es usted el dueño no tendrá ninguna de estas opciones, por lo que no aparecerá ningún botón a excepción del de volver para ver más casas (Back to Housing).
 
-Se mostrará el saldo que tienes en la cuenta en la cual iniciaste sesión.
+![Vender](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%2012.png)
 
-También puedes Depositar y Retirar dinero en cualquiera de las monedas que tenemos disponibles, en este caso son: Pesos colombianos (COP), Dólares (USD) y euros (EUR), primero vamos con depositar, lo primero que tendrás que hacer es ingresar un valor a depositar que sea mayor a 100 pesos colombianos (recuerda que cada transacción menor a 50000 COP cuesta 100 pesos), luego le das a depositar, si todo sale bien te saldrá el siguiente mensaje.
+## 4. Perfil de Usuario.
 
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_5.png)
+Por último, si hace click en el segundo título superior (Profile) será redirigido a su perfil, allí podrá ver la información con la que está registrado en el sistema como su nombre completo, correo electronico e identificación; tendrá acceso también al número de viviendas que posee, el cual inicia en cero cuando se registra y aumenta o disminuye cuando compra o vende una propiedad, respectivamente.
+Desde aquí tambien puede cerrar su sesión (Log Out), lo cual lo enviaría nuevamente al inicio del manual.
 
+![Perfil](https://github.com/Ago-1107/Inmobiliaria-Tecnicas/blob/main/YupiHomes/Resources/Images/Desktop%20-%2013.png)
 
-Con esto sabrás de que el saldo se Depositó correctamente y podrás volver a consultar tu nuevo saldo, cuando ingresas un valor no permitido aparecerá lo siguiente.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_6.png)
-
-
-Diciéndote así, que el depósito no fue realizado porque ingresaste un valor no permitido.
-
-Igualmente pasa con el retirar y nos aparecen los siguientes mensajes.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_7.png)
-
-Si fue de manera correcta.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_8.png)
-
-Si fue de manera incorrecta.
-
-Después tenemos el botón de historial y el de políticas, primero iremos al de historial.
-
-## 3. Historial
-
-Cuando das click en el botón historial, te llevará a la siguiente pantalla.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_9.png)
-
-
-Donde tienes dos opciones, volver a la página anterior o mostrar el historial, si le das mostrar el historial, te mostrará las últimas 10 transacciones realizadas, de la siguiente manera.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_10.png)
-
-
-Eso es todo por parte de historial.
-
-## 4. Políticas y Privacidad
-
-Te encontrarás la siguiente pantalla.
-
-![alt text](https://raw.githubusercontent.com/jmc929/Tecnicas-main/main/resources/img/imagen_11.png)
-
-
-Esto es todo de Bancoin, gracias por elegirnos, tu bancofriend.
-
-**NOTA:** CUANDO PRESIONES LOS BOTONES, HAZLO SOBRE LAS LETRAS DE LA PALABRA DENTRO DEL BOTÓN, ESTO TE AYUDARÁ A EVITAR FALLOS EN LA PÁGINA.
+## Nota:
+En toda su estancia en la plataforma aparecerán mensajes emergentes que le indicaran si un proceso tuvo o no exito, como en el registro e inicio y al comprar o vender resiencias.
