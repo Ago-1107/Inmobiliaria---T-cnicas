@@ -17,6 +17,7 @@ La inmobiliaria Yupi Homes da la posibilidad a los usuarios de que compren y/o v
 - **Compras:** No permite, ni a una misma persona ni a varias, comprar una casa que ya tiene dueño.
   - El botón comprar deja de mostrase una vez que alguien compra.
 - **Ventas:** Sólo se le da la opción de vender una casa a quien la compro.
+- Al ser una inmobiliaria exclusiva y para famosos, se asume que los clientes tienen dinero suficiente para permitirse las residencias, por esto no hay verificaciones de dinero.
 - Cada que se hace una operación la cantidad de viviendas es modificada, por lo que siempre podrá ver su cantidad de propiedades actuales.
 
 ## Actualización de Datos.
