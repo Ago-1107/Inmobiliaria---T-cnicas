@@ -2,7 +2,7 @@
 
 En el siguiente manual encontrará todas las caracteristicas, funciones y opciones que tiene nuestra inmobiliaria. 
 
-## 1. Bienvenida
+## 1. Presentación
 
 Lo primero con lo que te encontrarás será con una pantalla de registro o de log in dependiendo de cuál sea tu caso.
 
